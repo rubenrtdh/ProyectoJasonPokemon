@@ -1,0 +1,1449 @@
+{
+    "pokemon_platino": [
+      {
+        "nombre": "Turtwig",
+        "tipo": ["Planta"],
+        "habilidades": ["Espesura", "Funda"],
+        "estadisticas_base": {
+          "PS": 55,
+          "Ataque": 68,
+          "Defensa": 64,
+          "Ataque Especial": 45,
+          "Defensa Especial": 55,
+          "Velocidad": 31
+        }
+      },
+      {
+        "nombre": "Grotle",
+        "tipo": ["Planta"],
+        "habilidades": ["Espesura", "Funda"],
+        "estadisticas_base": {
+          "PS": 75,
+          "Ataque": 89,
+          "Defensa": 85,
+          "Ataque Especial": 55,
+          "Defensa Especial": 65,
+          "Velocidad": 36
+        }
+      },
+      {
+        "nombre": "Torterra",
+        "tipo": ["Planta", "Tierra"],
+        "habilidades": ["Espesura", "Funda"],
+        "estadisticas_base": {
+          "PS": 95,
+          "Ataque": 109,
+          "Defensa": 105,
+          "Ataque Especial": 75,
+          "Defensa Especial": 85,
+          "Velocidad": 56
+        }
+      },
+      {
+        "nombre": "Chimchar",
+        "tipo": ["Fuego"],
+        "habilidades": ["Mar Llamas", "Impulso"],
+        "estadisticas_base": {
+          "PS": 44,
+          "Ataque": 58,
+          "Defensa": 44,
+          "Ataque Especial": 58,
+          "Defensa Especial": 44,
+          "Velocidad": 61
+        }
+      },
+      {
+        "nombre": "Monferno",
+        "tipo": ["Fuego", "Lucha"],
+        "habilidades": ["Mar Llamas", "Impulso"],
+        "estadisticas_base": {
+          "PS": 64,
+          "Ataque": 78,
+          "Defensa": 52,
+          "Ataque Especial": 78,
+          "Defensa Especial": 52,
+          "Velocidad": 81
+        }
+      },
+      {
+        "nombre": "Infernape",
+        "tipo": ["Fuego", "Lucha"],
+        "habilidades": ["Mar Llamas", "Impulso"],
+        "estadisticas_base": {
+          "PS": 76,
+          "Ataque": 104,
+          "Defensa": 71,
+          "Ataque Especial": 104,
+          "Defensa Especial": 71,
+          "Velocidad": 108
+        }
+      },
+      {
+        "nombre": "Piplup",
+        "tipo": ["Agua"],
+        "habilidades": ["Torrente", "Nado Rápido"],
+        "estadisticas_base": {
+          "PS": 53,
+          "Ataque": 51,
+          "Defensa": 53,
+          "Ataque Especial": 61,
+          "Defensa Especial": 56,
+          "Velocidad": 40
+        }
+      },
+      {
+        "nombre": "Prinplup",
+        "tipo": ["Agua"],
+        "habilidades": ["Torrente", "Nado Rápido"],
+        "estadisticas_base": {
+          "PS": 64,
+          "Ataque": 66,
+          "Defensa": 68,
+          "Ataque Especial": 81,
+          "Defensa Especial": 76,
+          "Velocidad": 50
+        }
+      },
+      {
+        "nombre": "Empoleon",
+        "tipo": ["Agua", "Acero"],
+        "habilidades": ["Torrente", "Nado Rápido"],
+        "estadisticas_base": {
+          "PS": 84,
+          "Ataque": 86,
+          "Defensa": 88,
+          "Ataque Especial": 111,
+          "Defensa Especial": 101,
+          "Velocidad": 60
+        }
+      },
+      {
+        "nombre": "Starly",
+        "tipo": ["Normal", "Volador"],
+        "habilidades": ["Intimidación", "Allanamiento"],
+        "estadisticas_base": {
+          "PS": 40,
+          "Ataque": 55,
+          "Defensa": 30,
+          "Ataque Especial": 30,
+          "Defensa Especial": 30,
+          "Velocidad": 60
+        }
+      },
+      {
+        "nombre": "Staravia",
+        "tipo": ["Normal", "Volador"],
+        "habilidades": ["Intimidación", "Allanamiento"],
+        "estadisticas_base": {
+          "PS": 55,
+          "Ataque": 75,
+          "Defensa": 50,
+          "Ataque Especial": 40,
+          "Defensa Especial": 40,
+          "Velocidad": 80
+        }
+      },
+      {
+        "nombre": "Staraptor",
+        "tipo": ["Normal", "Volador"],
+        "habilidades": ["Intimidación", "Allanamiento"],
+        "estadisticas_base": {
+          "PS": 85,
+          "Ataque": 120,
+          "Defensa": 70,
+          "Ataque Especial": 50,
+          "Defensa Especial": 60,
+          "Velocidad": 100
+        }
+      },
+      {
+        "nombre": "Bidoof",
+        "tipo": ["Normal"],
+        "habilidades": ["Nerviosismo", "Ritmo Propio"],
+        "estadisticas_base": {
+          "PS": 59,
+          "Ataque": 45,
+          "Defensa": 40,
+          "Ataque Especial": 35,
+          "Defensa Especial": 40,
+          "Velocidad": 31
+        }
+      },
+      {
+        "nombre": "Bibarel",
+        "tipo": ["Normal", "Agua"],
+        "habilidades": ["Nerviosismo", "Ritmo Propio"],
+        "estadisticas_base": {
+          "PS": 79,
+          "Ataque": 85,
+          "Defensa": 60,
+          "Ataque Especial": 55,
+          "Defensa Especial": 60,
+          "Velocidad": 71
+        }
+      },
+      {
+        "nombre": "Kricketot",
+        "tipo": ["Bicho"],
+        "habilidades": ["Corte Fuerte", "Cuerpo Menudo"],
+        "estadisticas_base": {
+          "PS": 37,
+          "Ataque": 25,
+          "Defensa": 41,
+          "Ataque Especial": 25,
+          "Defensa Especial": 41,
+          "Velocidad": 25
+        }
+      },
+      {
+        "nombre": "Kricketune",
+        "tipo": ["Bicho"],
+        "habilidades": ["Corte Fuerte", "Cuerpo Menudo"],
+        "estadisticas_base": {
+          "PS": 77,
+          "Ataque": 85,
+          "Defensa": 51,
+          "Ataque Especial": 55,
+          "Defensa Especial": 51,
+          "Velocidad": 65
+        }
+      },
+      {
+        "nombre": "Shinx",
+        "tipo": ["Eléctrico"],
+        "habilidades": ["Rivalidad", "Intimidación"],
+        "estadisticas_base": {
+          "PS": 45,
+          "Ataque": 65,
+          "Defensa": 34,
+          "Ataque Especial": 40,
+          "Defensa Especial": 34,
+          "Velocidad": 45
+        }
+      },
+      {
+        "nombre": "Luxio",
+        "tipo": ["Eléctrico"],
+        "habilidades": ["Rivalidad", "Intimidación"],
+        "estadisticas_base": {
+          "PS": 60,
+          "Ataque": 85,
+          "Defensa": 49,
+          "Ataque Especial": 60,
+          "Defensa Especial": 49,
+          "Velocidad": 60
+        }
+      },
+      {
+        "nombre": "Luxray",
+        "tipo": ["Eléctrico"],
+        "habilidades": ["Rivalidad", "Intimidación"],
+        "estadisticas_base": {
+          "PS": 80,
+          "Ataque": 120,
+          "Defensa": 79,
+          "Ataque Especial": 95,
+          "Defensa Especial": 79,
+          "Velocidad": 70
+        }
+      },
+      {
+        "nombre": "Budew",
+        "tipo": ["Planta", "Veneno"],
+        "habilidades": ["Ritmo Propio", "Hoja Afilada"],
+        "estadisticas_base": {
+          "PS": 40,
+          "Ataque": 30,
+          "Defensa": 35,
+          "Ataque Especial": 50,
+          "Defensa Especial": 70,
+          "Velocidad": 55
+        }
+      },
+      {
+        "nombre": "Roserade",
+        "tipo": ["Planta", "Veneno"],
+        "habilidades": ["Naturaleza Firme", "Punto Tóxico"],
+        "estadisticas_base": {
+          "PS": 60,
+          "Ataque": 70,
+          "Defensa": 65,
+          "Ataque Especial": 125,
+          "Defensa Especial": 105,
+          "Velocidad": 90
+        }
+      },
+      {
+        "nombre": "Zubat",
+        "tipo": ["Veneno", "Volador"],
+        "habilidades": ["Foco Interno", "Allanamiento"],
+        "estadisticas_base": {
+          "PS": 40,
+          "Ataque": 45,
+          "Defensa": 35,
+          "Ataque Especial": 30,
+          "Defensa Especial": 40,
+          "Velocidad": 55
+        }
+      },
+      {
+        "nombre": "Golbat",
+        "tipo": ["Veneno", "Volador"],
+        "habilidades": ["Foco Interno", "Allanamiento"],
+        "estadisticas_base": {
+          "PS": 75,
+          "Ataque": 80,
+          "Defensa": 70,
+          "Ataque Especial": 65,
+          "Defensa Especial": 75,
+          "Velocidad": 90
+        }
+      },
+      {
+        "nombre": "Crobat",
+        "tipo": ["Veneno", "Volador"],
+        "habilidades": ["Foco Interno", "Infiltrador"],
+        "estadisticas_base": {
+          "PS": 85,
+          "Ataque": 90,
+          "Defensa": 80,
+          "Ataque Especial": 70,
+          "Defensa Especial": 80,
+          "Velocidad": 130
+        }
+      },
+      {
+        "nombre": "Geodude",
+        "tipo": ["Roca", "Tierra"],
+        "habilidades": ["Cabeza Roca", "Robustez"],
+        "estadisticas_base": {
+          "PS": 40,
+          "Ataque": 80,
+          "Defensa": 100,
+          "Ataque Especial": 30,
+          "Defensa Especial": 30,
+          "Velocidad": 20
+        }
+      },
+      {
+        "nombre": "Graveler",
+        "tipo": ["Roca", "Tierra"],
+        "habilidades": ["Cabeza Roca", "Robustez"],
+        "estadisticas_base": {
+          "PS": 55,
+          "Ataque": 95,
+          "Defensa": 115,
+          "Ataque Especial": 45,
+          "Defensa Especial": 45,
+          "Velocidad": 35
+        }
+      },
+      {
+        "nombre": "Golem",
+        "tipo": ["Roca", "Tierra"],
+        "habilidades": ["Cabeza Roca", "Robustez"],
+        "estadisticas_base": {
+          "PS": 80,
+          "Ataque": 120,
+          "Defensa": 130,
+          "Ataque Especial": 55,
+          "Defensa Especial": 65,
+          "Velocidad": 45
+        }
+      },
+      {
+        "nombre": "Onix",
+        "tipo": ["Roca", "Tierra"],
+        "habilidades": ["Cabeza Roca", "Robustez"],
+        "estadisticas_base": {
+          "PS": 35,
+          "Ataque": 45,
+          "Defensa": 160,
+          "Ataque Especial": 30,
+          "Defensa Especial": 45,
+          "Velocidad": 70
+        }
+      },
+      {
+        "nombre": "Steelix",
+        "tipo": ["Acero", "Tierra"],
+        "habilidades": ["Cabeza Roca", "Robustez"],
+        "estadisticas_base": {
+          "PS": 75,
+          "Ataque": 85,
+          "Defensa": 200,
+          "Ataque Especial": 55,
+          "Defensa Especial": 65,
+          "Velocidad": 30
+        }
+      },
+      {
+        "nombre": "Clefairy",
+        "tipo": ["Normal"],
+        "habilidades": ["Gran Encanto", "Ritmo Propio"],
+        "estadisticas_base": {
+          "PS": 70,
+          "Ataque": 45,
+          "Defensa": 48,
+          "Ataque Especial": 60,
+          "Defensa Especial": 65,
+          "Velocidad": 35
+        }
+      },
+      {
+        "nombre": "Clefable",
+        "tipo": ["Normal"],
+        "habilidades": ["Gran Encanto", "Ritmo Propio"],
+        "estadisticas_base": {
+          "PS": 95,
+          "Ataque": 70,
+          "Defensa": 73,
+          "Ataque Especial": 95,
+          "Defensa Especial": 90,
+          "Velocidad": 60
+        }
+      },
+      {
+        "nombre": "Vulpix",
+        "tipo": ["Fuego"],
+        "habilidades": ["Absorbe Fuego", "Sequía"],
+        "estadisticas_base": {
+          "PS": 38,
+          "Ataque": 41,
+          "Defensa": 40,
+          "Ataque Especial": 50,
+          "Defensa Especial": 65,
+          "Velocidad": 65
+        }
+      },
+      {
+        "nombre": "Ninetales",
+        "tipo": ["Fuego"],
+        "habilidades": ["Absorbe Fuego", "Sequía"],
+        "estadisticas_base": {
+          "PS": 73,
+          "Ataque": 76,
+          "Defensa": 75,
+          "Ataque Especial": 81,
+          "Defensa Especial": 100,
+          "Velocidad": 100
+        }
+      },
+      {
+        "nombre": "Jigglypuff",
+        "tipo": ["Normal", "Hada"],
+        "habilidades": ["Gran Encanto", "Tenacidad"],
+        "estadisticas_base": {
+          "PS": 115,
+          "Ataque": 45,
+          "Defensa": 20,
+          "Ataque Especial": 45,
+          "Defensa Especial": 25,
+          "Velocidad": 20
+        }
+      },
+      {
+        "nombre": "Wigglytuff",
+        "tipo": ["Normal", "Hada"],
+        "habilidades": ["Gran Encanto", "Tenacidad"],
+        "estadisticas_base": {
+          "PS": 140,
+          "Ataque": 70,
+          "Defensa": 45,
+          "Ataque Especial": 85,
+          "Defensa Especial": 50,
+          "Velocidad": 45
+        }
+      },
+      {
+        "nombre": "Paras",
+        "tipo": ["Bicho", "Planta"],
+        "habilidades": ["Cabeza Roca", "Compiescolta"],
+        "estadisticas_base": {
+          "PS": 35,
+          "Ataque": 70,
+          "Defensa": 55,
+          "Ataque Especial": 45,
+          "Defensa Especial": 55,
+          "Velocidad": 25
+        }
+      },
+      {
+        "nombre": "Parasect",
+        "tipo": ["Bicho", "Planta"],
+        "habilidades": ["Cabeza Roca", "Compiescolta"],
+        "estadisticas_base": {
+          "PS": 60,
+          "Ataque": 95,
+          "Defensa": 80,
+          "Ataque Especial": 60,
+          "Defensa Especial": 80,
+          "Velocidad": 30
+        }
+      },
+      {
+        "nombre": "Venonat",
+        "tipo": ["Bicho", "Veneno"],
+        "habilidades": ["Ojo Compuesto", "Nerviosismo"],
+        "estadisticas_base": {
+          "PS": 60,
+          "Ataque": 55,
+          "Defensa": 50,
+          "Ataque Especial": 40,
+          "Defensa Especial": 55,
+          "Velocidad": 45
+        }
+      },
+      {
+        "nombre": "Venomoth",
+        "tipo": ["Bicho", "Veneno"],
+        "habilidades": ["Ojo Compuesto", "Señuelo"],
+        "estadisticas_base": {
+          "PS": 70,
+          "Ataque": 65,
+          "Defensa": 60,
+          "Ataque Especial": 90,
+          "Defensa Especial": 75,
+          "Velocidad": 90
+        }
+      },
+      {
+        "nombre": "Diglett",
+        "tipo": ["Tierra"],
+        "habilidades": ["Velo Arena", "Trampa Arena"],
+        "estadisticas_base": {
+          "PS": 10,
+          "Ataque": 55,
+          "Defensa": 25,
+          "Ataque Especial": 35,
+          "Defensa Especial": 45,
+          "Velocidad": 95
+        }
+      },
+      {
+        "nombre": "Dugtrio",
+        "tipo": ["Tierra"],
+        "habilidades": ["Velo Arena", "Trampa Arena"],
+        "estadisticas_base": {
+          "PS": 35,
+          "Ataque": 80,
+          "Defensa": 50,
+          "Ataque Especial": 50,
+          "Defensa Especial": 70,
+          "Velocidad": 120
+        }
+      },
+      {
+        "nombre": "Meowth",
+        "tipo": ["Normal"],
+        "habilidades": ["Recogida", "Tumbos"],
+        "estadisticas_base": {
+          "PS": 40,
+          "Ataque": 45,
+          "Defensa": 35,
+          "Ataque Especial": 40,
+          "Defensa Especial": 40,
+          "Velocidad": 90
+        }
+      },
+      {
+        "nombre": "Persian",
+        "tipo": ["Normal"],
+        "habilidades": ["Flexibilidad", "Tumbos"],
+        "estadisticas_base": {
+          "PS": 65,
+          "Ataque": 70,
+          "Defensa": 60,
+          "Ataque Especial": 65,
+          "Defensa Especial": 65,
+          "Velocidad": 115
+        }
+      },
+      {
+        "nombre": "Psyduck",
+        "tipo": ["Agua"],
+        "habilidades": ["Despiste", "Nado Rápido"],
+        "estadisticas_base": {
+          "PS": 50,
+          "Ataque": 52,
+          "Defensa": 48,
+          "Ataque Especial": 65,
+          "Defensa Especial": 50,
+          "Velocidad": 55
+        }
+      },
+      {
+        "nombre": "Golduck",
+        "tipo": ["Agua"],
+        "habilidades": ["Despiste", "Nado Rápido"],
+        "estadisticas_base": {
+          "PS": 80,
+          "Ataque": 82,
+          "Defensa": 78,
+          "Ataque Especial": 95,
+          "Defensa Especial": 80,
+          "Velocidad": 85
+        }
+      },
+      {
+        "nombre": "Machop",
+        "tipo": ["Lucha"],
+        "habilidades": ["Agallas", "Impulso"],
+        "estadisticas_base": {
+          "PS": 70,
+          "Ataque": 80,
+          "Defensa": 50,
+          "Ataque Especial": 35,
+          "Defensa Especial": 35,
+          "Velocidad": 35
+        }
+      },
+      {
+        "nombre": "Machoke",
+        "tipo": ["Lucha"],
+        "habilidades": ["Agallas", "Impulso"],
+        "estadisticas_base": {
+          "PS": 80,
+          "Ataque": 100,
+          "Defensa": 70,
+          "Ataque Especial": 50,
+          "Defensa Especial": 60,
+          "Velocidad": 45
+        }
+      },
+      {
+        "nombre": "Machamp",
+        "tipo": ["Lucha"],
+        "habilidades": ["Agallas", "Impulso"],
+        "estadisticas_base": {
+          "PS": 90,
+          "Ataque": 130,
+          "Defensa": 80,
+          "Ataque Especial": 65,
+          "Defensa Especial": 85,
+          "Velocidad": 55
+        }
+      },
+      {
+        "nombre": "Bellsprout",
+        "tipo": ["Planta", "Veneno"],
+        "habilidades": ["Clorofila", "Nerviosismo"],
+        "estadisticas_base": {
+          "PS": 50,
+          "Ataque": 75,
+          "Defensa": 35,
+          "Ataque Especial": 70,
+          "Defensa Especial": 30,
+          "Velocidad": 40
+        }
+      },
+      {
+        "nombre": "Weepinbell",
+        "tipo": ["Planta", "Veneno"],
+        "habilidades": ["Clorofila", "Nerviosismo"],
+        "estadisticas_base": {
+          "PS": 65,
+          "Ataque": 90,
+          "Defensa": 50,
+          "Ataque Especial": 85,
+          "Defensa Especial": 45,
+          "Velocidad": 55
+        }
+      },
+      {
+        "nombre": "Victreebel",
+        "tipo": ["Planta", "Veneno"],
+        "habilidades": ["Clorofila", "Nerviosismo"],
+        "estadisticas_base": {
+          "PS": 80,
+          "Ataque": 105,
+          "Defensa": 65,
+          "Ataque Especial": 100,
+          "Defensa Especial": 70,
+          "Velocidad": 70
+        }
+      },
+      {
+        "nombre": "Tentacool",
+        "tipo": ["Agua", "Veneno"],
+        "habilidades": ["Cuerpo Puro", "Nado Rápido"],
+        "estadisticas_base": {
+          "PS": 40,
+          "Ataque": 40,
+          "Defensa": 35,
+          "Ataque Especial": 50,
+          "Defensa Especial": 100,
+          "Velocidad": 70
+        }
+      },
+      {
+        "nombre": "Tentacruel",
+        "tipo": ["Agua", "Veneno"],
+        "habilidades": ["Cuerpo Puro", "Nado Rápido"],
+        "estadisticas_base": {
+          "PS": 80,
+          "Ataque": 70,
+          "Defensa": 65,
+          "Ataque Especial": 80,
+          "Defensa Especial": 120,
+          "Velocidad": 100
+        }
+      },
+      {
+        "nombre": "Geodude",
+        "tipo": ["Roca", "Tierra"],
+        "habilidades": ["Cabeza Roca", "Robustez"],
+        "estadisticas_base": {
+          "PS": 40,
+          "Ataque": 80,
+          "Defensa": 100,
+          "Ataque Especial": 30,
+          "Defensa Especial": 30,
+          "Velocidad": 20
+        }
+      },
+      {
+        "nombre": "Graveler",
+        "tipo": ["Roca", "Tierra"],
+        "habilidades": ["Cabeza Roca", "Robustez"],
+        "estadisticas_base": {
+          "PS": 55,
+          "Ataque": 95,
+          "Defensa": 115,
+          "Ataque Especial": 45,
+          "Defensa Especial": 45,
+          "Velocidad": 35
+        }
+      },
+      {
+        "nombre": "Golem",
+        "tipo": ["Roca", "Tierra"],
+        "habilidades": ["Cabeza Roca", "Robustez"],
+        "estadisticas_base": {
+          "PS": 80,
+          "Ataque": 120,
+          "Defensa": 130,
+          "Ataque Especial": 55,
+          "Defensa Especial": 65,
+          "Velocidad": 45
+        }
+      },
+      {
+        "nombre": "Magnemite",
+        "tipo": ["Eléctrico", "Acero"],
+        "habilidades": ["Imán", "Robustez"],
+        "estadisticas_base": {
+          "PS": 25,
+          "Ataque": 35,
+          "Defensa": 70,
+          "Ataque Especial": 95,
+          "Defensa Especial": 55,
+          "Velocidad": 45
+        }
+      },
+      {
+        "nombre": "Magneton",
+        "tipo": ["Eléctrico", "Acero"],
+        "habilidades": ["Imán", "Robustez"],
+        "estadisticas_base": {
+          "PS": 50,
+          "Ataque": 60,
+          "Defensa": 95,
+          "Ataque Especial": 120,
+          "Defensa Especial": 70,
+          "Velocidad": 70
+        }
+      },
+      {
+        "nombre": "Magnezone",
+        "tipo": ["Eléctrico", "Acero"],
+        "habilidades": ["Imán", "Robustez"],
+        "estadisticas_base": {
+          "PS": 70,
+          "Ataque": 70,
+          "Defensa": 115,
+          "Ataque Especial": 130,
+          "Defensa Especial": 90,
+          "Velocidad": 60
+        }
+      },
+      {
+        "nombre": "Grimer",
+        "tipo": ["Veneno"],
+        "habilidades": ["Foco Interno", "Viscosidad"],
+        "estadisticas_base": {
+          "PS": 80,
+          "Ataque": 80,
+          "Defensa": 50,
+          "Ataque Especial": 40,
+          "Defensa Especial": 50,
+          "Velocidad": 25
+        }
+      },
+      {
+        "nombre": "Muk",
+        "tipo": ["Veneno"],
+        "habilidades": ["Foco Interno", "Viscosidad"],
+        "estadisticas_base": {
+          "PS": 105,
+          "Ataque": 105,
+          "Defensa": 75,
+          "Ataque Especial": 65,
+          "Defensa Especial": 100,
+          "Velocidad": 50
+        }
+      },
+      {
+        "nombre": "Shellos",
+        "tipo": ["Agua"],
+        "habilidades": ["Torrente", "Viscosidad"],
+        "estadisticas_base": {
+          "PS": 76,
+          "Ataque": 48,
+          "Defensa": 48,
+          "Ataque Especial": 57,
+          "Defensa Especial": 62,
+          "Velocidad": 34
+        }
+      },
+      {
+        "nombre": "Gastrodon",
+        "tipo": ["Agua", "Tierra"],
+        "habilidades": ["Torrente", "Viscosidad"],
+        "estadisticas_base": {
+          "PS": 111,
+          "Ataque": 83,
+          "Defensa": 68,
+          "Ataque Especial": 92,
+          "Defensa Especial": 82,
+          "Velocidad": 39
+        }
+      },
+      {
+        "nombre": "Stunky",
+        "tipo": ["Veneno", "Siniestro"],
+        "habilidades": ["Hedor", "Vista Lince"],
+        "estadisticas_base": {
+          "PS": 63,
+          "Ataque": 63,
+          "Defensa": 47,
+          "Ataque Especial": 41,
+          "Defensa Especial": 41,
+          "Velocidad": 74
+        }
+      },
+      {
+        "nombre": "Skuntank",
+        "tipo": ["Veneno", "Siniestro"],
+        "habilidades": ["Hedor", "Vista Lince"],
+        "estadisticas_base": {
+          "PS": 103,
+          "Ataque": 93,
+          "Defensa": 67,
+          "Ataque Especial": 71,
+          "Defensa Especial": 61,
+          "Velocidad": 84
+        }
+      },
+      {
+        "nombre": "Bronzor",
+        "tipo": ["Acero", "Psíquico"],
+        "habilidades": ["Levitación", "Robustez"],
+        "estadisticas_base": {
+          "PS": 57,
+          "Ataque": 24,
+          "Defensa": 86,
+          "Ataque Especial": 24,
+          "Defensa Especial": 86,
+          "Velocidad": 23
+        }
+      },
+      {
+        "nombre": "Bronzong",
+        "tipo": ["Acero", "Psíquico"],
+        "habilidades": ["Levitación", "Robustez"],
+        "estadisticas_base": {
+          "PS": 67,
+          "Ataque": 89,
+          "Defensa": 116,
+          "Ataque Especial": 79,
+          "Defensa Especial": 116,
+          "Velocidad": 33
+        }
+      },
+      {
+        "nombre": "Bonsly",
+        "tipo": ["Roca"],
+        "habilidades": ["Ritmo Propio", "Robustez"],
+        "estadisticas_base": {
+          "PS": 50,
+          "Ataque": 80,
+          "Defensa": 95,
+          "Ataque Especial": 10,
+          "Defensa Especial": 45,
+          "Velocidad": 10
+        }
+      },
+      {
+        "nombre": "Mime Jr.",
+        "tipo": ["Psíquico", "Hada"],
+        "habilidades": ["Filtro", "Mimetismo"],
+        "estadisticas_base": {
+          "PS": 20,
+          "Ataque": 25,
+          "Defensa": 45,
+          "Ataque Especial": 70,
+          "Defensa Especial": 90,
+          "Velocidad": 60
+        }
+      },
+      {
+        "nombre": "Happiny",
+        "tipo": ["Normal"],
+        "habilidades": ["Cura Natural", "Afortunado"],
+        "estadisticas_base": {
+          "PS": 100,
+          "Ataque": 5,
+          "Defensa": 5,
+          "Ataque Especial": 15,
+          "Defensa Especial": 65,
+          "Velocidad": 30
+        }
+      },
+      {
+        "nombre": "Chatot",
+        "tipo": ["Normal", "Volador"],
+        "habilidades": ["Audaz", "Tumbos"],
+        "estadisticas_base": {
+          "PS": 76,
+          "Ataque": 65,
+          "Defensa": 45,
+          "Ataque Especial": 92,
+          "Defensa Especial": 42,
+          "Velocidad": 91
+        }
+      },
+      {
+        "nombre": "Spiritomb",
+        "tipo": ["Fantasma", "Siniestro"],
+        "habilidades": ["Presión", "Insonorizar"],
+        "estadisticas_base": {
+          "PS": 50,
+          "Ataque": 92,
+          "Defensa": 108,
+          "Ataque Especial": 92,
+          "Defensa Especial": 108,
+          "Velocidad": 35
+        }
+      },
+      {
+        "nombre": "Gible",
+        "tipo": ["Dragón", "Tierra"],
+        "habilidades": ["Piel Tosca", "Velo Arena"],
+        "estadisticas_base": {
+          "PS": 58,
+          "Ataque": 70,
+          "Defensa": 45,
+          "Ataque Especial": 40,
+          "Defensa Especial": 45,
+          "Velocidad": 42
+        }
+      },
+      {
+        "nombre": "Gabite",
+        "tipo": ["Dragón", "Tierra"],
+        "habilidades": ["Piel Tosca", "Velo Arena"],
+        "estadisticas_base": {
+          "PS": 68,
+          "Ataque": 90,
+          "Defensa": 65,
+          "Ataque Especial": 50,
+          "Defensa Especial": 55,
+          "Velocidad": 82
+        }
+      },
+      {
+        "nombre": "Garchomp",
+        "tipo": ["Dragón", "Tierra"],
+        "habilidades": ["Piel Tosca", "Velo Arena"],
+        "estadisticas_base": {
+          "PS": 108,
+          "Ataque": 130,
+          "Defensa": 95,
+          "Ataque Especial": 80,
+          "Defensa Especial": 85,
+          "Velocidad": 102
+        }
+      },
+      {
+        "nombre": "Munchlax",
+        "tipo": ["Normal"],
+        "habilidades": ["Aclimatación", "Tragón"],
+        "estadisticas_base": {
+          "PS": 135,
+          "Ataque": 85,
+          "Defensa": 40,
+          "Ataque Especial": 40,
+          "Defensa Especial": 85,
+          "Velocidad": 5
+        }
+      },
+      {
+        "nombre": "Riolu",
+        "tipo": ["Lucha"],
+        "habilidades": ["Impasible", "Potencia Bruta"],
+        "estadisticas_base": {
+          "PS": 40,
+          "Ataque": 70,
+          "Defensa": 40,
+          "Ataque Especial": 35,
+          "Defensa Especial": 40,
+          "Velocidad": 60
+        }
+      },
+      {
+        "nombre": "Lucario",
+        "tipo": ["Lucha", "Acero"],
+        "habilidades": ["Impasible", "Intimidación"],
+        "estadisticas_base": {
+          "PS": 70,
+          "Ataque": 110,
+          "Defensa": 70,
+          "Ataque Especial": 115,
+          "Defensa Especial": 70,
+          "Velocidad": 90
+        }
+      },
+      {
+        "nombre": "Hippopotas",
+        "tipo": ["Tierra"],
+        "habilidades": ["Ritmo Arena", "Velo Arena"],
+        "estadisticas_base": {
+          "PS": 68,
+          "Ataque": 72,
+          "Defensa": 78,
+          "Ataque Especial": 38,
+          "Defensa Especial": 42,
+          "Velocidad": 32
+        }
+      },
+      {
+        "nombre": "Hippowdon",
+        "tipo": ["Tierra"],
+        "habilidades": ["Ritmo Arena", "Velo Arena"],
+        "estadisticas_base": {
+          "PS": 108,
+          "Ataque": 112,
+          "Defensa": 118,
+          "Ataque Especial": 68,
+          "Defensa Especial": 72,
+          "Velocidad": 47
+        }
+      },
+      {
+        "nombre": "Skorupi",
+        "tipo": ["Veneno", "Bicho"],
+        "habilidades": ["Corte Fuerte", "Sniper"],
+        "estadisticas_base": {
+          "PS": 40,
+          "Ataque": 50,
+          "Defensa": 90,
+          "Ataque Especial": 30,
+          "Defensa Especial": 55,
+          "Velocidad": 65
+        }
+      },
+      {
+        "nombre": "Drapion",
+        "tipo": ["Veneno", "Siniestro"],
+        "habilidades": ["Corte Fuerte", "Sniper"],
+        "estadisticas_base": {
+          "PS": 70,
+          "Ataque": 90,
+          "Defensa": 110,
+          "Ataque Especial": 60,
+          "Defensa Especial": 75,
+          "Velocidad": 95
+        }
+      },
+      {
+        "nombre": "Croagunk",
+        "tipo": ["Veneno", "Lucha"],
+        "habilidades": ["Antídoto", "Intrépido"],
+        "estadisticas_base": {
+          "PS": 48,
+          "Ataque": 61,
+          "Defensa": 40,
+          "Ataque Especial": 61,
+          "Defensa Especial": 40,
+          "Velocidad": 50
+        }
+      },
+      {
+        "nombre": "Toxicroak",
+        "tipo": ["Veneno", "Lucha"],
+        "habilidades": ["Antídoto", "Intrépido"],
+        "estadisticas_base": {
+          "PS": 83,
+          "Ataque": 106,
+          "Defensa": 65,
+          "Ataque Especial": 86,
+          "Defensa Especial": 65,
+          "Velocidad": 85
+        }
+      },
+      {
+        "nombre": "Carnivine",
+        "tipo": ["Planta"],
+        "habilidades": ["Crecimiento", "Espesura"],
+        "estadisticas_base": {
+          "PS": 74,
+          "Ataque": 100,
+          "Defensa": 72,
+          "Ataque Especial": 90,
+          "Defensa Especial": 72,
+          "Velocidad": 46
+        }
+      },
+      {
+        "nombre": "Finneon",
+        "tipo": ["Agua"],
+        "habilidades": ["Nado Rápido", "Hidratación"],
+        "estadisticas_base": {
+          "PS": 49,
+          "Ataque": 49,
+          "Defensa": 56,
+          "Ataque Especial": 49,
+          "Defensa Especial": 61,
+          "Velocidad": 66
+        }
+      },
+      {
+        "nombre": "Lumineon",
+        "tipo": ["Agua"],
+        "habilidades": ["Nado Rápido", "Hidratación"],
+        "estadisticas_base": {
+          "PS": 69,
+          "Ataque": 69,
+          "Defensa": 76,
+          "Ataque Especial": 69,
+          "Defensa Especial": 86,
+          "Velocidad": 91
+        }
+      },
+      {
+        "nombre": "Mantyke",
+        "tipo": ["Agua", "Volador"],
+        "habilidades": ["Chorro Arena", "Velo Agua"],
+        "estadisticas_base": {
+          "PS": 45,
+          "Ataque": 20,
+          "Defensa": 50,
+          "Ataque Especial": 60,
+          "Defensa Especial": 120,
+          "Velocidad": 50
+        }
+      },
+      {
+        "nombre": "Snover",
+        "tipo": ["Planta", "Hielo"],
+        "habilidades": ["Velo Níveo", "Alerta"],
+        "estadisticas_base": {
+          "PS": 60,
+          "Ataque": 62,
+          "Defensa": 50,
+          "Ataque Especial": 62,
+          "Defensa Especial": 60,
+          "Velocidad": 40
+        }
+      },
+      {
+        "nombre": "Abomasnow",
+        "tipo": ["Planta", "Hielo"],
+        "habilidades": ["Velo Níveo", "Alerta"],
+        "estadisticas_base": {
+          "PS": 90,
+          "Ataque": 92,
+          "Defensa": 75,
+          "Ataque Especial": 92,
+          "Defensa Especial": 85,
+          "Velocidad": 60
+        }
+      },
+      {
+        "nombre": "Rotom",
+        "tipo": ["Eléctrico", "Fantasma"],
+        "habilidades": ["Levitación"],
+        "estadisticas_base": {
+          "PS": 50,
+          "Ataque": 50,
+          "Defensa": 77,
+          "Ataque Especial": 95,
+          "Defensa Especial": 77,
+          "Velocidad": 91
+        }
+      },
+      {
+        "nombre": "Rotom Calor",
+        "tipo": ["Eléctrico", "Fuego"],
+        "habilidades": ["Levitación"],
+        "estadisticas_base": {
+          "PS": 50,
+          "Ataque": 65,
+          "Defensa": 107,
+          "Ataque Especial": 105,
+          "Defensa Especial": 107,
+          "Velocidad": 86
+        }
+      },
+      {
+        "nombre": "Rotom Lavado",
+        "tipo": ["Eléctrico", "Agua"],
+        "habilidades": ["Levitación"],
+        "estadisticas_base": {
+          "PS": 50,
+          "Ataque": 65,
+          "Defensa": 107,
+          "Ataque Especial": 105,
+          "Defensa Especial": 107,
+          "Velocidad": 86
+        }
+      },
+      {
+        "nombre": "Rotom Ventilador",
+        "tipo": ["Eléctrico", "Volador"],
+        "habilidades": ["Levitación"],
+        "estadisticas_base": {
+          "PS": 50,
+          "Ataque": 65,
+          "Defensa": 107,
+          "Ataque Especial": 105,
+          "Defensa Especial": 107,
+          "Velocidad": 86
+        }
+      },
+      {
+        "nombre": "Rotom Frío",
+        "tipo": ["Eléctrico", "Hielo"],
+        "habilidades": ["Levitación"],
+        "estadisticas_base": {
+          "PS": 50,
+          "Ataque": 65,
+          "Defensa": 107,
+          "Ataque Especial": 105,
+          "Defensa Especial": 107,
+          "Velocidad": 86
+        }
+      },
+      {
+        "nombre": "Rotom Cortacésped",
+        "tipo": ["Eléctrico", "Planta"],
+        "habilidades": ["Levitación"],
+        "estadisticas_base": {
+          "PS": 50,
+          "Ataque": 65,
+          "Defensa": 107,
+          "Ataque Especial": 105,
+          "Defensa Especial": 107,
+          "Velocidad": 86
+        }
+      },
+      {
+        "nombre": "Uxie",
+        "tipo": ["Psíquico"],
+        "habilidades": ["Levitación"],
+        "estadisticas_base": {
+          "PS": 75,
+          "Ataque": 75,
+          "Defensa": 130,
+          "Ataque Especial": 75,
+          "Defensa Especial": 130,
+          "Velocidad": 95
+        }
+      },
+      {
+        "nombre": "Mesprit",
+        "tipo": ["Psíquico"],
+        "habilidades": ["Levitación"],
+        "estadisticas_base": {
+          "PS": 80,
+          "Ataque": 105,
+          "Defensa": 105,
+          "Ataque Especial": 105,
+          "Defensa Especial": 105,
+          "Velocidad": 80
+        }
+      },
+      {
+        "nombre": "Azelf",
+        "tipo": ["Psíquico"],
+        "habilidades": ["Levitación"],
+        "estadisticas_base": {
+          "PS": 75,
+          "Ataque": 125,
+          "Defensa": 70,
+          "Ataque Especial": 125,
+          "Defensa Especial": 70,
+          "Velocidad": 115
+        }
+      },
+      {
+        "nombre": "Dialga",
+        "tipo": ["Acero", "Dragón"],
+        "habilidades": ["Presión", "Telepatía"],
+        "estadisticas_base": {
+          "PS": 100,
+          "Ataque": 120,
+          "Defensa": 120,
+          "Ataque Especial": 150,
+          "Defensa Especial": 100,
+          "Velocidad": 90
+        }
+      },
+      {
+        "nombre": "Palkia",
+        "tipo": ["Agua", "Dragón"],
+        "habilidades": ["Presión", "Telepatía"],
+        "estadisticas_base": {
+          "PS": 90,
+          "Ataque": 120,
+          "Defensa": 100,
+          "Ataque Especial": 150,
+          "Defensa Especial": 120,
+          "Velocidad": 100
+        }
+      },
+      {
+        "nombre": "Heatran",
+        "tipo": ["Fuego", "Acero"],
+        "habilidades": ["Presión", "Cuerpo Puro"],
+        "estadisticas_base": {
+          "PS": 91,
+          "Ataque": 90,
+          "Defensa": 106,
+          "Ataque Especial": 130,
+          "Defensa Especial": 106,
+          "Velocidad": 77
+        }
+      },
+      {
+        "nombre": "Regigigas",
+        "tipo": ["Normal"],
+        "habilidades": ["Despiste"],
+        "estadisticas_base": {
+          "PS": 110,
+          "Ataque": 160,
+          "Defensa": 110,
+          "Ataque Especial": 80,
+          "Defensa Especial": 110,
+          "Velocidad": 100
+        }
+      },
+      {
+        "nombre": "Giratina",
+        "tipo": ["Fantasma", "Dragón"],
+        "habilidades": ["Presión", "Levitación"],
+        "estadisticas_base": {
+          "PS": 150,
+          "Ataque": 100,
+          "Defensa": 120,
+          "Ataque Especial": 100,
+          "Defensa Especial": 120,
+          "Velocidad": 90
+        }
+      },
+      {
+        "nombre": "Cresselia",
+        "tipo": ["Psíquico"],
+        "habilidades": ["Levitación"],
+        "estadisticas_base": {
+          "PS": 120,
+          "Ataque": 70,
+          "Defensa": 120,
+          "Ataque Especial": 75,
+          "Defensa Especial": 130,
+          "Velocidad": 85
+        }
+      },
+      {
+        "nombre": "Phione",
+        "tipo": ["Agua"],
+        "habilidades": ["Hidratación"],
+        "estadisticas_base": {
+          "PS": 80,
+          "Ataque": 80,
+          "Defensa": 80,
+          "Ataque Especial": 80,
+          "Defensa Especial": 80,
+          "Velocidad": 80
+        }
+      },
+      {
+        "nombre": "Manaphy",
+        "tipo": ["Agua"],
+        "habilidades": ["Hidratación"],
+        "estadisticas_base": {
+          "PS": 100,
+          "Ataque": 100,
+          "Defensa": 100,
+          "Ataque Especial": 100,
+          "Defensa Especial": 100,
+          "Velocidad": 100
+        }
+      },
+      {
+        "nombre": "Darkrai",
+        "tipo": ["Siniestro"],
+        "habilidades": ["Levitación"],
+        "estadisticas_base": {
+          "PS": 70,
+          "Ataque": 90,
+          "Defensa": 90,
+          "Ataque Especial": 135,
+          "Defensa Especial": 90,
+          "Velocidad": 125
+        }
+      },
+      {
+        "nombre": "Shaymin",
+        "tipo": ["Planta"],
+        "habilidades": ["Cura Natural"],
+        "estadisticas_base": {
+          "PS": 100,
+          "Ataque": 100,
+          "Defensa": 100,
+          "Ataque Especial": 100,
+          "Defensa Especial": 100,
+          "Velocidad": 100
+        }
+      },
+      {
+        "nombre": "Arceus",
+        "tipo": ["Normal"],
+        "habilidades": ["Multitipo"],
+        "estadisticas_base": {
+          "PS": 120,
+          "Ataque": 120,
+          "Defensa": 120,
+          "Ataque Especial": 120,
+          "Defensa Especial": 120,
+          "Velocidad": 120
+        }
+      },
+      {
+        "nombre": "Victini",
+        "tipo": ["Psíquico", "Fuego"],
+        "habilidades": ["Victoria"],
+        "estadisticas_base": {
+          "PS": 100,
+          "Ataque": 100,
+          "Defensa": 100,
+          "Ataque Especial": 100,
+          "Defensa Especial": 100,
+          "Velocidad": 100
+        }
+      }
+    ]
+}    
+
+  
